@@ -1,0 +1,18 @@
+body {
+    background-color: yellow;
+}
+
+#logo-space {
+    background-color: blue;
+    display: block;
+
+}
+
+#logo-image {
+    border-style: solid;
+    border-color: black;
+    border-width: 1px;
+    background-color: black;
+    width: 272px;
+    height: 201px;
+}
